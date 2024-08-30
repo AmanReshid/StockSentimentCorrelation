@@ -1,0 +1,5 @@
+# Enforce LF line endings for Python scripts
+*.py text eol=lf
+
+# Enforce LF line endings for Jupyter notebooks
+*.ipynb text eol=lf
