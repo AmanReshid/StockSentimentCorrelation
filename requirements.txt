@@ -7,3 +7,5 @@ datetime
 yfinance
 talib
 seaborn
+
+
