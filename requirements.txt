@@ -6,3 +6,6 @@ textblob
 datetime
 yfinance
 talib
+seaborn
+
+
